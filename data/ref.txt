@@ -1,0 +1,253 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\bibitem{AaCj2001jam} A. Aleman and  J. Cima (2001).   An integral operator on $H^p$ and Hardy's inequality  [J].  {\it  J. Anal. Math.} {    85}: 157--176.
+\bibitem{Adomnicai2021} A. Adomnicai, and T. Peyrin. (2021). Fixslicing AES-like Ciphers: New bitsliced AES speed records on ARM-Cortex M and RISC-V [J]. {\it IACR Transactions on Cryptographic Hardware and Embedded Systems}, 402-425.
+\bibitem{Andreeva2015} E. Andreeva, A. Bogdanov, A. Luykx, B. Mennink, E. Tischhauser, K. Yasuda. (2015). AES-COPA v1 [J].
+\bibitem{Aoki2000} K. Aoki, T. Ichikawa, M. Kanda. (2000). Camellia: A 128-bit block cipher suitable for multiple platforms - design and analysis [C]. {\it Selected Areas in Cryptography, 7th Annual International Workshop, SAC 2000, Waterloo, Ontario, Canada, August 14-15, 2000, Proceedings, volume 2012 of Lecture Notes in Computer Science}. 2000. 39-56.
+\bibitem{Avanzi2023} R. Avanzi, S. Banik, O. Dunkelman, M. Eichlseder, S. Ghosh, M. Nageler, F. Regazzoni. (2023). The QARMAv2 Family of Tweakable Block Ciphers [J]. {\it IACR Transactions on Symmetric Cryptology}, 2023(3), 25-73.
+\bibitem{Banik2015} S. Banik, A. Bogdanov, T. Isobe, K. Shibutani, H. Hiwatari, T. Akishita, F. Regazzoni. (2015). Midori: A block cipher for low energy [C]. {\it International Conference on the Theory and Application of Cryptology and Information Security}, 411-436.
+\bibitem{Banik2015} S. Banik, A. Bogdanov, T. Isobe. (2015). Midori: A Block Cipher for Low Energy [C]. In {\it Proceedings of the International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT)}, Auckland, New Zealand, 411-436.
+\bibitem{Banik2017} S. Banik, S. K. Pandey, T. Peyrin, Y. Sasaki, S. M. Sim, Y. Todo. (2017). Gift: a small present [C]. In {\it International Conference on Cryptographic Hardware and Embedded Systems}, 321-345.
+\bibitem{Banik2020} S. Banik, A. Chakraborti, A. Inoue, T. Iwata, K. Minematsu, M. Nandi, Y. Todo. (2020). Gift-cofb [J]. Cryptology ePrint Archive.
+\bibitem{Banik2020WARP} S. Banik, Z. Bao, T. Isobe, H. Kubo, F. Liu, K. Minematsu, K. Sakamoto, N. Shibata, M. Shigeri. (2020). WARP : Revisiting GFN for lightweight 128-bit block cipher [C]. {\it Selected Areas in Cryptography - SAC 2020 - 27th International Conference, Halifax, NS, Canada (Virtual Event), October 21-23, 2020, Revised Selected Papers}, 535-564.
+\bibitem{Bansod2017} G. Bansod, N. Pisharoty, A. Patil (2017). BORON: an ultra-lightweight and low power encryption design for pervasive computing [J]. {\it Frontiers of Information and Electronic Engineering}, 18(3), 317-331.
+\bibitem{Beaulieu2015} R. Beaulieu, D. Shors, J. Smith, S. Treatman-Clark, B. Weeks, L. Wingers. (2015). The SIMON and SPECK Block Ciphers on AVR 8-bit Microcontrollers [C]. {\it Lightweight Cryptography for Security and Privacy: Third International Workshop, LightSec 2014, Istanbul, Turkey, September 1-2, 2014, Revised Selected Papers 3}, 3-20.
+\bibitem{Beaulieu2015SIMON} R. Beaulieu, D. Shors, J. Smith, S. Treatman-Clark, B. Weeks, L. Wingers. (2015). The SIMON and SPECK lightweight block ciphers [C]. {\it Proceedings of the 52nd annual design automation conference}, 1-6.
+\bibitem{Beierle2016} C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, S. M. Sim. (2016). The SKINNY family of block ciphers and its low-latency variant MANTIS [C]. In {\it Advances in Cryptology-CRYPTO 2016: 36th Annual International Cryptology Conference, Santa Barbara, CA, USA, August 14-18, 2016, Proceedings, Part II 36}, 123-153.
+\bibitem{Beierle2019} C. Beierle, G. Leander, A. Moradi, S. Rasoolzadeh. (2019). CRAFT: lightweight tweakable block cipher with efficient protection against DFA attacks [J]. {\it IACR Transactions on Symmetric Cryptology}, 2019(1).
+\bibitem{Beierle2020} C. Beierle, A. Biryukov, L. C. dos Santos, J. Großschädl, L. Perrin, A. Udovenko, Q. Wang. (2020). Lightweight AEAD and hashing using the sparkle permutation family [J]. {\it IACR Transactions on Symmetric Cryptology}, 2020(S1), 208-261.
+\bibitem{Berger2016} T. P. Berger, J. Francq, M. Minier, et al. (2016). Extended Generalized Feistel Networks Using Matrix Representation to Propose a New Lightweight Block Cipher: Lilliput [J]. {\it IEEE Transactions on Computers}, 65(7), pp. 2074-2089.
+\bibitem{Berger2016} T. P. Berger, J. Francq, M. Minier. (2016). Extended Generalized Feistel Networks Using Matrix Representation to Propose a New Lightweight Block Cipher: Lilliput [J]. {\it IEEE Transactions on Computers}, 65(7), 2074-2089.
+\bibitem{Bertoni2013} G. Bertoni, J. Daemen, M. Peeters. Keccak [C]. {\it T. Johansson, P. Q. Nguyen (eds). Advances in Cryptology - EUROCRYPT 2013, Berlin, Heidelberg: Springer Berlin Heidelberg } 2013. 313-31.
+\bibitem{Beyne2020} T. Beyne, Y. L. Chen, C. Dobraunig, B. Mennink. (2020). Dumbo, jumbo, and delirium: Parallel authenticated encryption for the lightweight circus [J]. {\it IACR Transactions on Symmetric Cryptology}, 2020, 5-30.
+\bibitem{Bharathi2022} R. Bharathi, N. Parvatham. (2022). Light-weight present block Cipher model for IoT security on FPGA [J]. {\it Intell Autom Soft Comput}, 33(1), 35-49.
+\bibitem{BihE1994} E. Biham. (1994). New types of cryptanalytic attacks using related keys [J]. {\it Journal of Cryptology}, 7(4): 229-240.
+\bibitem{BihE2001} E. Biham, T. Dunkelman, N. Keller. (2001). The rectangle attack - rectangling the serpent [C]. {\it Advances in Cryptology - EUROCRYPT 2001, International Conference on the Theory and Application of Cryptographic Techniques, Innsbruck, Austria, May 6-10, 2001, Proceedings}, 340-357.
+\bibitem{Biham1990} E. Biham, A. Shamir (1990). Differential Cryptanalysis of DES-like Cryptosystems [J], {\it Journal of CRYPTOLOGY}, 4(1), 3-72.
+\bibitem{Biham1997} E. Biham, A. Shamir. (1997). Differential fault analysis of secret key cryptosystems [C]. {\it Advances in Cryptology—CRYPTO'97: 17th Annual International Cryptology Conference Santa Barbara, California, USA August 17-21, 1997 Proceedings 17}, 513-525.
+\bibitem{Biham1999} E. Biham, A. Biryukov, A. Shamir. (1999). Cryptanalysis of Skipjack reduced to 31 rounds using impossible differentials [C]. {\it Advances in Cryptology—EUROCRYPT'99: International Conference on the Theory and Application of Cryptographic Techniques Prague, Czech Republic, May 2-6, 1999 Proceedings}, 12-23.
+\bibitem{Biswas2023} A. Biswas, A. Majumdar, S. Nath, A. Dutta, K. L. Baishnab. (2023). LRBC: a lightweight block cipher design for resource constrained iot devices [J]. {\it J. Ambient Intell. Humaniz. Comput.}, 14(5): 5773-5787.
+\bibitem{Bogdanov2007} A. Bogdanov, L.R. Knudsen, G. Leander. (2007). PRESENT: an ultra-lightweight block cipher [C]. In {\it Proceedings of the International Conference on Cryptographic Hardware and Embedded Systems (CHES)}, Vienna, Austria, 450-466.
+\bibitem{Bogdanov2011} A. Bogdanov, M. Knežević, G. Leander, et al. (2011). SPONGENT: A Lightweight Hash Function [C]. {\it Proc. Int. Conf. on Cryptographic Hardware and Embedded Systems (CHES), Nara, Japan, September}, 312-325.
+\bibitem{Bogdanov2012} A. Bogdanov, Leander G., Nyberg K., et al. (2012). Integral and multidimensional linear distinguishers with correlation zero [C]. {\it Advances in Cryptology - ASIACRYPT 2012 - 18th International Conference on the Theory and Application of Cryptology and Information Security, Beijing, China, December 2-6, 2012. Proceedings}, 244-261.
+\bibitem{BogdanovRijmen2014} A. Bogdanov, Rijmen V. (2014). Linear hulls with correlation zero and linear cryptanalysis of block ciphers [J]. {\it Des. Codes Cryptogr.}, 70(3): 369-383.
+\bibitem{BogdanovWang2012} A. Bogdanov, Wang M. (2012). Zero correlation linear cryptanalysis with reduced data complexity [C]. {\it Fast Software Encryption - 19th International Workshop, FSE 2012, Washington, DC, USA, March 19-21, 2012. Revised Selected Papers}, 29-48.
+\bibitem{Borghoff2012} J. Borghoff, A. Canteaut, T. Güneysu, E. B. Kavun, M. Knezevic, L. R. Knudsen. (2012). PRINCE–a low-latency block cipher for pervasive computing applications [C]. {\it Advances in Cryptology–ASIACRYPT 2012: 18th International Conference on the Theory and Application of Cryptology and Information Security, Beijing, China, December 2-6, 2012. Proceedings 18}, 208-225.
+\bibitem{Cheng2023} H. Cheng, J. Großschädl, B. Marshall, D. Page, and T. Pham. (2023). RISC-V instruction set extensions for lightweight symmetric cryptography [J]. {\it IACR Transactions on Cryptographic Hardware and Embedded Systems}, 193-237.
+\bibitem{Collard2009} B. Collard, F. Baudoin, and F. Standaert. (2009). A statistical saturation attack against the block cipher PRESENT [C].  {\it Topics in Cryptology - CT-RSA 2009, The Cryptographers' Track at the RSA Conference 2009, San Francisco, CA, USA, April 20-24, 2009. Proceedings}, 5473, 195-210.
+\bibitem{Courtois2002} N. T. Courtois, J. Pieprzyk. (2002). Cryptanalysis of block ciphers with overdefined systems of equations [C]. {\it Advances in Cryptology—ASIACRYPT 2002: 8th International Conference on the Theory and Application of Cryptology and Information Security Queenstown, New Zealand, December 1-5, 2002 Proceedings 8}, 267-287.
+\bibitem{Courtois2016} N. T. Courtois and P. Sepehrdad and G. Song. (2016). Predicting Outcomes of ElimLin Attack on Lightweight Block Cipher Simon [C]. In {\it International Conference on Security and Cryptography}, 465--470.
+\bibitem{Daemen1997} J. Daemen, R. G. V. Aes. (1997). Rijndael proposal: Rijndael [C]. {\it Selected Areas in Cryptography, 7th Annual International Workshop, SAC 2000, Waterloo, Ontario, Canada, August 14-15, 2000, Proceedings, volume 2012 of Lecture Notes in Computer Science}. 2000. 39-56.
+\bibitem{Daemen1997square} J. Daemen, L. R. Knudsen, and V. Rijmen. (1997). The block cipher Square [C]. {\it Fast Software Encryption, 4th International Workshop, FSE '97, Haifa, Israel, January 20-22, 1997, Proceedings}, 1267, 149-165.
+\bibitem{Daemen2002} J. Daemen, V. Rijmen. (2002). The Design of Rijndael [M]. {\it New York: Springer-Verlag}.
+\bibitem{Daemen2020} J. Daemen, S. Hoffert, M. Peeters, G. V. Assche, R. V. Keer. (2020). Xoodyak, a lightweight cryptographic scheme [J].
+\bibitem{Datta2016} N. Datta, M. Nandi. (2016). Proposal of ELmD v2.1 [J]. {\it Submission to the CAESAR Competition}.
+\bibitem{Diffie1977} W. Diffie, M. E. Hellman. (1977). Special feature exhaustive cryptanalysis of the NBS data encryption standard [J]. {\it Computer}, 10(6), 74-84.
+\bibitem{DiffieHellman1976} W. Diffie, M. E. Hellman (2022). New directions in cryptography [C]. {\it Democratizing Cryptography: The Work of Whitfield Diffie and Martin Hellman}, 365-390.
+\bibitem{Dobraunig2017} C. Dobraunig, M. Eichlseder, S. Mangard, F. Mendel, T. Unterluggauer. (2017). ISAP-towards side-channel secure authenticated encryption [J]. {\it IACR Transactions on Symmetric Cryptology}, 80-105.
+\bibitem{Dobraunig2021} C. Dobraunig, M. Eichlseder, F. Mendel, M. Schläffer. (2021). Ascon v1.2: Lightweight authenticated encryption and hashing [J]. {\it Journal of Cryptology}, 34, 1-42.
+\bibitem{Elbirt2001} A. J. Elbirt, W. Yip, B. Chetwynd, and C. Paar. (2001). An FPGA-based performance evaluation of the AES block cipher candidate algorithm finalists [J]. {\it IEEE Transactions on Very Large Scale Integration (VLSI) Systems}, 9(4), 545-557.
+\bibitem{Fan2013} Z. Fan, Q. Xu, Y. Xu. (2013). The construction and research of lightweight cryptography SOPT-S boxes based on the inverse mapping in galois field [C]. In {\it IEEE International Conference on Granular Computing (GrC)}, 91-98.
+\bibitem{Feng2022} J. Feng, L. Li. (2022). SCENERY: a lightweight block cipher based on feistel structure [J]. {\it Frontiers Comput. Sci.}, 16(3): 163813.
+\bibitem{Feng2023} J. Feng, Y. Wei, F. Zhang, E. Pasalic, Y. Zhou. (2023). Novel Optimized Implementations of Lightweight Cryptographic S-Boxes via SAT Solvers [J]. {\it IEEE Transactions on Circuits and Systems I: Regular Papers}.
+\bibitem{GiKm1969} I. Gohberg and M. Krein (1969). {\it Introduction to the theory of linear nonself-adjoint operators in Hilbert spaces}  [M].  Translated from the Russian by A. Feinstein.  Translations of Mathematical Monographs,  Vol. 18.  American Mathematical Society,  Providence,  R.I.
+\bibitem{Gong2011} Z. Gong, S. Nikova, Y. W. Law. (2011). KLEIN: A new family of lightweight block ciphers [C]. In A. Juels, C. Paar (Eds.), {\it RFID. Security and Privacy 7th International Workshop, RFIDSec 2011, Amherst, USA, June 26-28, 2011, Revised Selected Papers}, 1-18.
+\bibitem{Good2006} T. Good, and M. Benaissa. (2006). AES as stream cipher on a small FPGA [C]. In {\it 2006 IEEE International Symposium on Circuits and Systems}, 4.
+\bibitem{Guo2011} J. Guo, T. Peyrin, A. Poschmann. (2011). The PHOTON Family of Lightweight Hash Functions [C]. In {\it 31st Annual Cryptology Conference (CRYPTO). Santa Barbara, CA, USA, August}, 222-239.
+\bibitem{Guo2011Led} J. Guo, T. Peyrin, A. Poschmann, M. Robshaw. (2011). The LED block cipher [C]. In {\it Cryptographic Hardware and Embedded Systems-CHES 2011: 13th International Workshop, Nara, Japan, September 28-October 1, 2011. Proceedings 13}, 326-341. 
+\bibitem{Guo2021} Y. Guo, L. Li, B. Liu. (2021). Shadow: A lightweight block cipher for iot nodes [J]. {\it IEEE Internet Things J.}, 8(16): 13014-13023.
+\bibitem{Gupta2013} K.C. Gupta and I.G. Ray (2013). On Constructions of Involutory MDS Matrices [C]. In {\it International Conference on Cryptology in Africa}, 43--60.
+\bibitem{Gupta2022} K. C. Gupta, S. K. Pandey, S. Samanta. (2022). FUTURE: A lightweight block cipher using an optimal diffusion matrix [C]. In L. Batina, J. Daemen (Eds.), {\it Progress in Cryptology - AFRICACRYPT 2022: 13th International Conference on Cryptology in Africa, AFRICACRYPT 2022, Fes, Morocco, July 18-20, 2022, Proceedings, Lecture Notes in Computer Science}, 28-52.
+\bibitem{Hailong2022} Z. Hailong and Y. Wei (2022). Template Attack Assisted Linear Cryptanalysis on Outer Rounds Protected DES Implementations [J]. {\it The Computer Journal.} 6(6): 1434--1451.
+\bibitem{Hands2002} C. Hands, H. Mh, D. Naccache. Shacal: a family of block ciphers [C]. Submission to the NESSIE project, 2002.
+\bibitem{Heiieilin2009} Heiieilin, I., Cho, J.Y., Xyherg, K. (2009). Multidimensional extension of Matsui's algorithm 2 [C]. {\it Fast Software Encryption, 16th International Workshop, FSE 2009, Leuven, Belgium, February 22-25, 2009, Revised Selected Papers}, 209-222.
+\bibitem{Hell2019} M. Hell, T. Johansson, W. Meier, J. Sönnerup, H. Yoshida. (2019, March). An AEAD variant of the grain stream cipher [C]. In {\it International Conference on Codes, Cryptology, and Information Security}, 55-71.
+\bibitem{Huang2023} X. Huang, L. Li, J. Yang. (2023). IVLBC: an involutive lightweight block cipher for internet of things [J]. {\it IEEE Syst. J.}, 17(2): 3192-3203.
+\bibitem{Hwang2002} K. Hwang, W. Lee, S. Lee, S. Lee, and J. Lim. (2002).Saturation attacks on reduced round Skipjack [C]. {\it Fast Software Encryption, 9th International Workshop, FSE 2002, Leuven, Belgium, February 4-6, 2002, Revised Papers}, 100-111.
+\bibitem{Iwata2020} T. Iwata, M. Khairallah, K. Minematsu, T. Peyrin. (2020). Duel of the titans: the romulus and remus families of lightweight AEAD algorithms [J]. {\it IACR Transactions on Symmetric Cryptology}, 43-120.
+\bibitem{Izadi2009} M. Izadi, B. Sadeghiyan, S. S. Sadeghian, H. A. Khanooki. (2009). MIBS: A new lightweight block cipher [C]. In J. A. Garay, A. Miyaji, A. Otsuka (Eds.), {\it Cryptology and Network Security, 8th International Conference, CANS 2009, Kanazawa, Japan, December 12-14, 2009. Proceedings}, 334-348.
+\bibitem{Jean2016} J. Jean, I. Nikolic, T. Peyrin, Y. Seurin. (2016). Deoxys v1.41 [J]. {\it Submitted to CAESAR}, 124(2).
+\bibitem{Knudsen1991} L. R. Knudsen. (1991). Cryptanalysis of LOKI [C]. {\it Advances in Cryptology - ASIACRYPT '91, International Conference on the Theory and Applications of Cryptology, Fujiyoshida, Japan, November 11-14, 1991, Proceedings}, 22-35.
+\bibitem{Knudsen1994} L. R. Knudsen. (1994). Truncated and higher order differentials [C]. {\it Fast Software Encryption: Second International Workshop, Leuven, Belgium, December 14-16, 1994, Proceedings}, 196-211.
+\bibitem{Knudsen1998} L. R. Knudsen. (1998). DEAL - a 128-bit block cipher [J]. NIST AES Proposal.
+\bibitem{KnudsenWagner2002} L. R. Knudsen and D. A. Wagner. (2002). Integral cryptanalysis [C]. {\it Fast Software Encryption, 9th International Workshop, FSE 2002, Leuven, Belgium, February 4-6, 2002, Revised Papers}, 112-127.
+\bibitem{Kocher1996} P. C. Kocher. (1996). Timing attacks on implementations of Diffie-Hellman, RSA, DSS, and other systems [C]. {\it Advances in Cryptology—CRYPTO'96: 16th Annual International Cryptology Conference Santa Barbara, California, USA August 18-22, 1996 Proceedings 16}, 104-113.
+\bibitem{Krovetz2011} T. Krovetz, P. Rogaway. (2011). The software performance of authenticated-encryption modes [C]. {\it Fast Software Encryption: 18th International Workshop, FSE 2011, Lyngby, Denmark, February 13-16, 2011, Revised Selected Papers 18}, 306-327. 
+\bibitem{Lai1991} X. Lai, J. L. Massey. (1991). A Proposal for a New Block Encryption Standard [C]. In {\it Advances in Cryptology—EUROCRYPT'90: Workshop on the Theory and Application of Cryptographic Techniques Aarhus, Denmark, May 21-24, 1990 Proceedings 9}, 389-404.
+\bibitem{Lai1994} X. Lai. (1994). Higher order derivatives and differential cryptanalysis [J]. {\it Communications and Cryptography}, 227-233.
+\bibitem{LaraNino2017} C. A. Lara-Nino, A. Diaz-Perez, and M. Morales-Sandoval. (2017). Lightweight hardware architectures for the present cipher in FPGA [J]. {\it IEEE Transactions on Circuits and Systems I: Regular Papers}, 64(9), 2544-2555.
+\bibitem{LaraNino2017} C. A. Lara-Nino, A. Diaz-Perez, M. Morales-Sandoval. (2017). Lightweight hardware architectures for the present Cipher in FPGA [J]. {\it IEEE Trans Circuits Syst I Regul Pap}, 64-I(9), 2544-55.
+\bibitem{Leander2007} G. Leander, C. Paar, A. Poschmann, K. Schramm. (2007). New lightweight DES variants [C]. In {\it Fast Software Encryption: 14th International Workshop, FSE 2007, Luxembourg, Luxembourg, March 26-28, 2007, Revised Selected Papers 14}, 196-210.
+\bibitem{Leuven2016} E. A. K. Leuven, A. L. K. Leuven, B. M. K. Leuven. (2016). COLM v1 [J].
+\bibitem{Li2016} L. Li, B. Liu, H. Wang. (2016). QTL: a new ultra-lightweight block cipher [J]. {\it Microprocessors and Microsystems}, 45, 45-55.
+\bibitem{Li2017} L. Li, K. L. Li, W. W. He, et al. (2017). Magpie: a High-Security Lightweight Block Cipher [J]. {\it Acta Electronica Sinica}, 45(10), 2521-2527.
+\bibitem{Li2018} L. Li, B. T. Liu, Y. M. Zhou, et al. (2018). SFN: A New Lightweight Block Cipher [J]. {\it Microprocessors \& Microsystems}, 4(60), 138-150.
+\bibitem{Li2021} L. Li, J. Feng, B. Liu, Y. Guo, Q. Li. (2021). Implementation of PRINCE with resource-efficient structures based on FPGAs [J]. {\it Front Inf Technol Electron Eng}, 22(11), 1505-16.
+\bibitem{Li2024} Y. Li, J. Feng, Q. Zhao, Y. Wei. (2024). Hdlbc: A lightweight block cipher with high diffusion [J]. {\it Integration}, 94: 102090.
+\bibitem{Liu2010} Z. Liu, J. Großschädl, and I. Kizhvatov. (2010). Efficient and side-channel resistant RSA implementation for 8-bit AVR microcontrollers [C]. {\it Workshop on the Security of the Internet of Things-SOCIOT}, 10.
+\bibitem{Liu2019} B. Liu, L. Li, R. Wu, M. Xie, Q. P. Li. (2019). Loong: A family of involutional lightweight block cipher based on SPN structure [J]. {\it IEEE Access}, 7: 136023-136035.
+\bibitem{Liu2019} B. Liu, L. Li, R. Wu. (2019). Loong: A family of Involutional lightweight Block Cipher Based on SPN Structure [J]. {\it IEEE Access}, 7(1), 136023-136035.
+\bibitem{Marshall2021} B. Marshall, D. Page, and T. H. Pham. (2021, July). A lightweight ise for chacha on risc-v [C]. {\it 2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)}, 25-32.
+\bibitem{Matsui1993} M. Matsui (1993). Linear cryptanalysis method for DES cipher [C]. In {\it Workshop on the Theory and Application of Cryptographic Techniques}, Norway, 386-397.
+\bibitem{Matsui1994} M. Matsui. (1994). The first experimental cryptanalysis of the data encryption standard [C]. In {\it Advances in Cryptology — CRYPTO '94: 14th Annual International Cryptology Conference Santa Barbara, California, USA, August 21-25, 1994 Proceedings}, 1-11.
+\bibitem{Matsui1997} M. Matsui. (1997). New block encryption algorithm MISTY [C]. {\it Fast Software Encryption, 4th International Workshop, FSE 597, Haifa, Israel, January 20-22, 1997, Proceedings, volume 1267 of Lecture Notes in Computer Science}. 1997. 54-68.
+\bibitem{Meiser2008} G. Meiser, T. Eisenbarth, K. Lemke-Rust, and C. Paar. (2008). Efficient implementation of eSTREAM ciphers on 8-bit AVR microcontrollers [C]. {\it 2008 International Symposium on Industrial Embedded Systems}, 58-66.
+\bibitem{Pandey2019} J. G. Pandey, T. Goel, A. Karmakar. (2019). Hardware architectures for PRESENT block Cipher and their FPGA implementations [J]. {\it IET Circuits Devices Syst}, 13(7), 958-69.
+\bibitem{Patil2017} J. Patil, G. Bansod, K. S. Kant. (2017). LiCi: A new ultra-lightweight block cipher [C]. {\it Proc. Int. Conf. on Emerging Trends and Innovation in ICT, Pune, India, February 2017}, 3-5.
+\bibitem{Pojoga2022} G. Pojoga, and K. Papagiannopoulos. (2022). Low-latency implementation of the GIFT cipher on RISC-V architectures [C]. {\it Proceedings of the 19th ACM International Conference on Computing Frontiers},  287-295.
+\bibitem{Rivest1978} R. L. Rivest, A. Shamir, L. Adleman (1978). A method for obtaining digital signatures and public-key cryptosystems [J]. {\it Communications of the ACM}, 21(2): 120-126.
+\bibitem{Rivest1992} R. Rivest. (1992). The MD5 message-digest algorithm [R] (No. rfc1321).
+\bibitem{Robshaw1994} Robshaw, M. (1994). Linear cryptanalysis using multiple approximations [C].  {\it Advances in Cryptology - CRYPTO '94, 14th Annual International Cryptology Conference, Santa Barbara, California, USA, August 21-25, 1994, Proceedings}, 26-39.
+\bibitem{Rw1980} W. Rudin (1980).   {\it Function Theory in the Unit Ball of $\CC^n$}  [M].   Springer-Verlag,  New York.\bibitem{Sasaki2017} Y. Sasaki and Y. Todo (2017). New impossible differential search tool from design and cryptanalysis aspects: Revealing structural properties of several ciphers [C]. In {\it Cryptology-EUROCRYPT},  185--215.
+\bibitem{Schwabe2016} P. Schwabe, and K. Stoffelen. (2016). All the AES you need on Cortex-M3 and M4 [C]. {\it International Conference on Selected Areas in Cryptography}, 180-194.
+\bibitem{Shahbazi2021} K. Shahbazi, S. Ko. (2021). Area-efficient nano-AES implementation for Internet-of-Things devices [J]. {\it IEEE Trans Very Large Scale Integr Syst}, 29(1), 136-48.
+\bibitem{Shannon1949} C. E. Shannon (1949). Communication theory of secrecy systems [J]. {\it The Bell System Technical Journal}, 28(4), 656-715.
+\bibitem{Shibutani2011} K. Shibutani, T. Isobe, H. Hiwatari, A. Mitsuda, T. Akishita, T. Shirai. (2011). Piccolo: An ultra-lightweight blockcipher [C]. {\it Cryptographic Hardware and Embedded Systems - CHES 2011 - 13th International Workshop, Nara, Japan, September 28 - October 1, 2011. Proceedings}, 342-357.
+\bibitem{Shirai2007} T. Shirai, K. Shibutani, T. Akishita, S. Moriai, T. Iwata. (2007). The 128-bit blockcipher CLEFIA [C]. {\it Fast Software Encryption: 14th International Workshop, FSE 2007, Luxembourg, Luxembourg, March 26-28, 2007, Revised Selected Papers 14}, 181-195.
+\bibitem{Standard1995} S. H. Standard. (1995). FIPS Pub 180-1 [J]. {\it National Institute of Standards and Technology} 17(180), 15.
+\bibitem{Standard1999} D. E. Standard (1999). Data encryption standard [J]. {\it Federal Information Processing Standards Publication}, 112, 3.
+\bibitem{Stoffelen2016} K. Stoffelen. (2016). Optimizing S-box implementations for several criteria using SAT solvers [C]. {\it International Conference on Fast Software Encryption}, 140-160.
+\bibitem{Sun2014} S. Sun and L. Hu and M. Wang (2014). Towards finding the best characteristics of some bit-oriented block ciphers and automatic enumeration of (related-key) differential and linear characteristics with predefined properties [J]. \textit{Cryptology ePrint Archive}.
+\bibitem{Wagner1999} D. A. Wagner. (1999). The boomerang attack [C]. {\it Fast Software Encryption: 6th International Workshop, FSE'99, Rome, Italy, March 24-26, 1999, Proceedings}, 156-170.
+\bibitem{Wang2005} X. Wang, H. Yu. (2005). How to break MD5 and other hash functions [C]. {\it Annual International Conference on the Theory and Applications of Cryptographic Techniques}, 19-35.
+\bibitem{Wang2005a} X. Wang, H. Yu. How to break MD5 and other hash functions [C]. {\it Advances in Cryptology - EUROCRYPT 2005, 24th Annual International Conference on the Theory and Applications of Cryptographic Techniques, Aarhus, Denmark, May 22-26, 2005, Proceedings, volume 3494 of Lecture Notes in Computer Science.} 2005. 19-35.
+\bibitem{Wang2005b} X. Wang, Y. L. Yin, H. Yu. Finding collisions in the full SHA-1 [C]. {\it Advances in Cryptology - CRYPTO 2005: 25th Annual International Cryptology Conference, Santa Barbara, California, USA, August 14-18, 2005, Proceedings, volume 3621 of Lecture Notes in Computer Science.} 2005. 17-36.
+\bibitem{Wang2016} M. Wang, T. Cui, H. Chen, L. Sun, L. Wen, and A. Bogdanov. (2016). Integrals go statistical: Cryptanalysis of full Skipjack variants [C]. {\it Fast Software Encryption - 23rd International Conference, FSE 2016, Bochum, Germany, March 20-23, 2016, Revised Selected Papers}, volume 9783 of {\it Lecture Notes in Computer Science}, 399-415.
+\bibitem{Wu2011} W.L. Wu and L. Zhang (2011). LBlock: a lightweight block cipher [C]. In {\it International Conference on Applied Cryptography and Network Security}, 327-344.
+\bibitem{Wu2014} H. Wu, B. Preneel. (2014). AEGIS: A fast authenticated encryption algorithm [C]. {\it Selected Areas in Cryptography--SAC 2013: 20th International Conference, Burnaby, BC, Canada, August 14-16, 2013, Revised Selected Papers 20}, 185-201. 
+\bibitem{Xiang2024} J. Xiang, L. Li. (2024). Efficient implementations of CRAFT cipher for Internet of Things [J]. {\it Computers and Electrical Engineering}, 116, 109168.
+\bibitem{Yang2009} H.Z. Yang and W.B. Han (2009). S-boxes reorganization algorithm for a class of block ciphers [J]. {\it Journal of Computer Applications}, 29(8), 2198-2199.
+\bibitem{Yang2015} G. Yang, B. Zhu, V. Suder, M. D. Aagaard, G. Gong. (2015, September). The simeck family of lightweight block ciphers [C]. {\it International Workshop on Cryptographic Hardware and Embedded Systems}, 307-329.
+\bibitem{Yang2023} J. Yang, L. Li, X. Huang. (2023). Low area and high throughput hardware implementations for the LILLIPUT Cipher [J]. {\it Int J Circuit Theory Appl}.
+\bibitem{Yeoh2019} W. Z. Yeoh, J. S. Teh, M. I. S. B. M. Sazali. (2019). μ2: A Lightweight Block Cipher [J]. {\it Computational Science and Technology}, (603), 281.
+\bibitem{Yin2006} X.C. Yin, J. Yang, and L. Xie (2006). Construction of Kind of S-box with Good Cryptographic Properties [J]. {\it Application Research of Computers}, 23(12), 147-150.
+\bibitem{Zakaria2023} A. A. Zakaria, A. H. Azni, F. Ridzuan, N. H. Zakaria, M. Daud. (2023). Systematic Literature Review: Trend Analysis on the Design of Lightweight Block Cipher [J]. {\it Journal of King Saud University-Computer and Information Sciences}.
+\bibitem{Zhang2015} W. Zhang, Z. Bao, D. Lin, V. Rijmen, B. Yang, I. Verbauwhede. (2015). Rectangle: a bit-slice lightweight block cipher suitable for multiple platforms [J]. {\it Science China Information Sciences}, 58(12): 1-15.
+\bibitem{Zhang2023} K. Zhang and X. Lai and L. Wang (2023). A revisited security evaluation of Simeck family ciphers against impossible differential cryptanalysis [J]. \textit{Science China. Information Sciences}, 66(3): 139106.
+\bibitem{Zitouni2021} N. Zitouni, M. Sedrati, A. Behaz. (2021). Comparing lightweight algorithms to secure constrained objects in internet of things [M].  {\it Interactive Mobile Communication, Technologies and Learning}, 1040-1051. 
