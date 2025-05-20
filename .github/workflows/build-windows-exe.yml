@@ -1,0 +1,37 @@
+name: Build Windows EXE with PyInstaller
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "pdf/pdf_normalizer_gui.py"
+      - "pdf/concatenate_pdfs.py"
+      - ".github/workflows/build-windows-exe.yml"
+
+jobs:
+  build-windows-exe:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller PyPDF2
+
+      - name: Build EXE with PyInstaller
+        run: |
+          cd pdf
+          pyinstaller --onefile --windowed --name pdf_normalizer_gui_v1.0.0 pdf_normalizer_gui.py
+
+      - name: Upload EXE artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf_normalizer_gui_v1.0.0_exe
+          path: pdf/dist/pdf_normalizer_gui_v1.0.0.exe
