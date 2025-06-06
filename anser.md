@@ -7,12 +7,26 @@
 
 ### 为什么做一个智能汽车加密的芯片？动机
 
+#### answer strategy
+
 - 高度，通俗
 - 目前车企信息缺陷，具案例
 
+#### answer
+
+- **10 米外“隔空开车门”**：Pwn2Own 2025，研究员利用 TPMS 漏洞 CVE-2025-2082 远程解锁并点火 Tesla Model 3。([gbhackers.com][1])
+- **一夜召回 110 万辆**：2025-06，福特后视摄像头固件死机，官方迅速 OTA 召回 ([finance.sina.com.cn][2])
+- **漏洞与召回“双激增”**：2024 年新增 422 个汽车 CVE，61 % 属高危；同年 OTA 召回 406 万辆，同比增长 246 %，软件即风险。([esmchina.com][3], [stdaily.com][4])
+
+[1]: https://gbhackers.com/tesla-model-3-vcsec-vulnerability/?utm_source=chatgpt.com "Tesla Model 3 VCSEC Vulnerability Lets Hackers Run Arbitrary Code"
+[2]: https://finance.sina.com.cn/stock/usstock/c/2025-06-02/doc-ineyszpt7410781.shtml?cre=tianyi&loc=32&mod=pchp&r=0&rfunc=18&tj=cxvertical_pc_hp&tr=12&utm_source=chatgpt.com "福特因后视摄像头故障召回110万辆汽车 - 新浪财经"
+[3]: https://www.esmchina.com/news/13050.html?utm_source=chatgpt.com "高危漏洞占比超六成：汽车供应链成网络攻击“重灾区” - 国际电子商情"
+[4]: https://www.stdaily.com/web/gdxw/2025-03/05/content_305228.html?utm_source=chatgpt.com "两部门：加强智能网联汽车召回及软件在线升级管理 - 科技日报"
+
 ### 这个芯片怎么做出来？可行性
 
-- 感谢提问
+#### answer strategy
+
 - 三步走
   - 市场调研
   - 怎么去设计制造规划
