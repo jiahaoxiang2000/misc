@@ -14,14 +14,9 @@
 
 #### answer
 
-- **10 米外“隔空开车门”**：Pwn2Own 2025，研究员利用 TPMS 漏洞 CVE-2025-2082 远程解锁并点火 Tesla Model 3。([gbhackers.com][1])
-- **一夜召回 110 万辆**：2025-06，福特后视摄像头固件死机，官方迅速 OTA 召回 ([finance.sina.com.cn][2])
-- **漏洞与召回“双激增”**：2024 年新增 422 个汽车 CVE，61 % 属高危；同年 OTA 召回 406 万辆，同比增长 246 %，软件即风险。([esmchina.com][3], [stdaily.com][4])
-
-[1]: https://gbhackers.com/tesla-model-3-vcsec-vulnerability/?utm_source=chatgpt.com "Tesla Model 3 VCSEC Vulnerability Lets Hackers Run Arbitrary Code"
-[2]: https://finance.sina.com.cn/stock/usstock/c/2025-06-02/doc-ineyszpt7410781.shtml?cre=tianyi&loc=32&mod=pchp&r=0&rfunc=18&tj=cxvertical_pc_hp&tr=12&utm_source=chatgpt.com "福特因后视摄像头故障召回110万辆汽车 - 新浪财经"
-[3]: https://www.esmchina.com/news/13050.html?utm_source=chatgpt.com "高危漏洞占比超六成：汽车供应链成网络攻击“重灾区” - 国际电子商情"
-[4]: https://www.stdaily.com/web/gdxw/2025-03/05/content_305228.html?utm_source=chatgpt.com "两部门：加强智能网联汽车召回及软件在线升级管理 - 科技日报"
+- **10 米外"隔空开车门"**：Pwn2Own 2025，研究员利用 TPMS 漏洞 CVE-2025-2082 远程解锁并点火 Tesla Model 3。
+- **一夜召回 110 万辆**：2025-06，福特后视摄像头固件死机，官方迅速 OTA 召回
+- **漏洞与召回"双激增"**：2024 年新增 422 个汽车 CVE，61 % 属高危；同年 OTA 召回 406 万辆，同比增长 246 %，软件即风险。
 
 ### 这个芯片怎么做出来？可行性
 
@@ -32,21 +27,47 @@
   - 怎么去设计制造规划
   - 目前做到第几个阶段
 
+#### answer
+
+先市场调研：对比 Infineon AURIX HSM 与 Rambus RT-640，功耗和成本仍偏高，低端 ECU 缺轻量安全芯片。再设计规划：选 28 nm 成熟工艺，SMIC 将晶圆价降至 1500 美元，成本可控；构建轻量分组加密IP核心，按 ISO 26262 ASIL-B 做安全验证。当前进度：算法与 RTL 已冻结，覆盖率 90%，正备 28 nm 测试流片.
+
 ### 公司为什么选择你的产品，优势在哪？
 
-- 技术好 说了技术指标 不行
+#### answer strategy
+
+- 技术好 说了技术指标是不行，需要通俗易懂
 - 举例子，找现实中发生的安全事件，
 
+#### answer
+
+黑客真能"隔空控车"：今年 CVE-2025-2082 让研究员在停车场外就解锁并点火 Tesla Model 3；早在 2015 年，Jeep 因娱乐系统漏洞被远程关发动机，结果召回 140 万辆；Ford 又因后视摄像头软件故障一次性召回 110 万辆车。每次召回都是数亿美元级别的代价。
+
+我们的芯片把"车内对话"全部加密，相当于给每条总线报文贴上一次性封条：非法指令进不了车、假固件刷不进 ECU。它只占 x mm²、微瓦级功耗，成本不到传统 HSM 的三分之一，却能让主机厂省下动辄百万辆的召回风险——这就是他们选择我们的理由。
+
 ### 市面上的安全芯片，为什么使用你的，安全在哪里？
+
+#### answer strategy
 
 - 我们正在汇总材料到国家安全部门送检
 - 我们团队成员都为第一作者，公开发表SCI论文，已经在国际密码同行中得到初步肯定
 
+#### answer
+
+Jeep远程被黑导致140万辆召回，车企因漏洞付出亿美元代价。市面 AURIX HSM、Rambus RT-640 虽安全，但功耗与成本高，对中低端 ECU 不友好。我们的芯片面积 2 mm²、微瓦级功耗，侧信道与故障注入双重加固，并准备送国家商用密码产品认证，确保合规。核心算法已发表于 SCI 密码学期刊，多篇第一作者论文获同行引用，安全性获学术与产业双认可。
+
 ### 你的产品定价多少，同类多少？
+
+#### answer strategy
 
 - 依据ppt数据，推测合理值，给出一个范围区间
 
+#### answer
+
+按 ≥10 万颗量产计算，本芯片单价 **0.8 – 1.2 美元**；小批量试产（1 万颗）亦控制在 1.5 美元以内。可比方案：Microchip TA100 10 k 价约 **1.5 美元**，仅是安全元件；集成 HSM 的 NXP S32K344 MCU 小批量 **14 – 16 美元**，且功耗更高。凭 2 mm² 面积与微瓦功耗，我们把成本压到竞品的 1/2–1/10，在保持车规安全的同时，更适配大规模 ECU。
+
 ### 成果展示
+
+#### answer strategy
 
 - 我们是一代原型机
 
